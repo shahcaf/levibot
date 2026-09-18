@@ -1,0 +1,3 @@
+- Project type: Next.js app with TypeScript, Tailwind CSS, Prisma, NextAuth, Stripe-ready subscription support, and Cloudflare R2-compatible asset uploads.
+- Setup: install dependencies, copy `.env.example` to `.env`, configure `DATABASE_URL`, and run `npm run dev`.
+- Project root includes: `src/`, `prisma/`, `.env.example`, and `.github/copilot-instructions.md`.
